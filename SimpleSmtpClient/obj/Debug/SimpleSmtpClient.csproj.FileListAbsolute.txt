@@ -1,0 +1,9 @@
+C:\Users\artem_ch\Desktop\SimpleSMTPClient-master\SimpleSMTPClient-master\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.exe.config
+C:\Users\artem_ch\Desktop\SimpleSMTPClient-master\SimpleSMTPClient-master\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.exe
+C:\Users\artem_ch\Desktop\SimpleSMTPClient-master\SimpleSMTPClient-master\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.pdb
+C:\Users\artem_ch\Desktop\SimpleSMTPClient-master\SimpleSMTPClient-master\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.csprojAssemblyReference.cache
+C:\Users\artem_ch\Desktop\SimpleSMTPClient-master\SimpleSMTPClient-master\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.mainForm.resources
+C:\Users\artem_ch\Desktop\SimpleSMTPClient-master\SimpleSMTPClient-master\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.Properties.Resources.resources
+C:\Users\artem_ch\Desktop\SimpleSMTPClient-master\SimpleSMTPClient-master\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.csproj.GenerateResource.cache
+C:\Users\artem_ch\Desktop\SimpleSMTPClient-master\SimpleSMTPClient-master\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.exe
+C:\Users\artem_ch\Desktop\SimpleSMTPClient-master\SimpleSMTPClient-master\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.pdb
