@@ -1,0 +1,4 @@
+C:\Users\artem_ch\source\repos\SMTP-CLIENT\SimpleSmtpClient\obj\Debug\SmtpClient.csprojAssemblyReference.cache
+C:\Users\artem_ch\source\repos\SMTP-CLIENT\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.mainForm.resources
+C:\Users\artem_ch\source\repos\SMTP-CLIENT\SimpleSmtpClient\obj\Debug\SmtpClient.Properties.Resources.resources
+C:\Users\artem_ch\source\repos\SMTP-CLIENT\SimpleSmtpClient\obj\Debug\SmtpClient.csproj.GenerateResource.cache
